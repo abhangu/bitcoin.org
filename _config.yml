@@ -11,6 +11,7 @@ langsorder:
 - id: pt_BR
 - id: ru
 - id: ro
+- id: sl
 - id: sv
 - id: tr
 - id: bg
@@ -35,6 +36,7 @@ langs:
   pt_BR: Português Brasil
   ro: ‪română‬
   ru: Русский
+  sl: slovenščina
   sv: Svenska
   tr: Türkçe
   zh_CN: ‪简体中文‬
